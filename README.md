@@ -7,18 +7,13 @@
 ## Setup
 1. Open the project folder in terminal
 
-        ```
         cd /path/to/jo-malone
-        ```
 
 2. Install dependencies
 
-        ```
         npm install
-        ```
-
+        
 3. Launch it
 
-        ```
         node .
-        ```
+        
