@@ -4,7 +4,7 @@
 1. Node v9 and above (https://nodejs.org/en/)
 2. Java v1.8+
 
-## Setup
+## Get Start
 1. Open the project folder in terminal
 
         cd /path/to/jo-malone
